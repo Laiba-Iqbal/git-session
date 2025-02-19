@@ -1,2 +1,2 @@
 # git-session
-steps 
+lets learn how to use git commands
